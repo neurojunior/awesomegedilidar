@@ -163,18 +163,48 @@ Densidade de biomassa acima do solo em grade (AGBD). Em breve.
 
 ## Apresentações e Workshops
 
+A Julia package for processing ICESat-2 & GEDI satellite LiDAR: https://youtube.com/watch?v=8bIoCgIpnRg
 
+Shaohui Zhang "Unit-level Small Area Estimation of Forest Inventory with GEDI Auxiliary Information: https://youtube.com/watch?v=JzchU8zyv7Y 
 
+GEDI Presentation by Laura Duncanson (University of Maryland): https://youtube.com/watch?v=Zspg2qkIc3Y
 
+REDDCopernicus - GFOI R&D Online Workshop - Biomass session: https://youtube.com/watch?v=mcuM7AXN0u8&t=1s
 
+An Introduction to GEDI Ecosystem LiDAR (NUS CNCS): https://youtube.com/watch?v=FamHIjp8Fdc
 
+Subsetting NASA GEDI LiDAR Data using ArcGIS Shapefiles: https://youtube.com/watch?v=vjsAuyObjTU
 
+Downloading multiple NASA GEDI LiDAR Granules simultaneously: https://youtube.com/watch?v=Nqjo_Mdbkfk
 
+Subsetting NASA GEDI LiDAR Data without downloading: https://youtube.com/watch?v=SpNazd9DQF4
 
+Subsetting NASA GEDI LiDAR Data for your AOI using R: https://youtube.com/watch?v=ANRqJ4i7v_Y
 
+How to Download Free LiDAR (NASA GEDI) Data?: https://youtube.com/watch?v=BjMyBZh9EI8
 
+Spaceborne LiDAR and NASA Global Ecosystem Dynamics Investigation: https://youtube.com/watch?v=T0Usm2QZBhQ
 
+Discrete Return vs Full Waveform LiDAR: https://youtube.com/watch?v=D1iCj-dFJ30
 
+What is LiDAR? A Quick Introduction: https://youtube.com/watch?v=TpFSDevs7X8&t=221s
 
+The GEDI mission: Concepts, methods and applications: https://youtube.com/watch?v=9omDvevO2vw
 
+Geo for Good 2021 : Novel Forest Data & Applications Part 1: GEDI & Obiwan: https://youtube.com/watch?v=PQwVDnOsqhQ
 
+Prof. Laura Duncanson | Mapping Forest Aboveground Carbon Content With New NASA LiDAR Missions: https://www.youtube.com/watch?v=TX5pDLiVjg4
+
+Getting Started with NASA GEDI Lidar Data: https://youtube.com/watch?v=UlrCC1Xp-wk
+
+Fabian Schneider - GEDI’s potential to map structural diversity of plant canopies – a case study: https://youtube.com/watch?v=mh-4kd2xv4E
+
+Canopy Height Measurement using Spaceborne LiDAR: https://youtube.com/watch?v=byKX9r0rEnQ&t=926s
+
+Dr Hao Tang - Mapping global canopy cover and vertical profile metrics using spaceborne lidar: https://youtube.com/watch?v=x8BqOzFORZM
+
+Ralph Dubayah (2) - GEDI data to produce three-dimensional maps of the world’s forests: https://youtube.com/watch?v=IBrU3P3HXgc
+
+Ralph Dubayah (1) - GEDI data to produce three-dimensional maps of the world’s forests: https://youtube.com/watch?v=iCxSZ4ahexo
+
+Vegetation Structure/Biomass/GEDI: https://youtube.com/watch?v=cC-bJHPqV3w
