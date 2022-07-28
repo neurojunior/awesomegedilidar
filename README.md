@@ -1,14 +1,20 @@
 # awesomegedilidar
 Awesome GEDI LiDAR
 
-Site Oficial: https://gedi.umd.edu
+Uma lista selecionada de recursos da missão GEDI LiDAR. Visite o repositório do Awesome GEDI LiDAR.
+
+Lista criada e atualizada por: <a href=https://github.com/neurojunior>Neuro Junior</a> e <a href=https://github.com/BrunaNSilva>Bruna Nascimento da Silva</a>.
+
+##
+
+<a href=https://gedi.umd.edu>Site Oficial da Missão</a>
 
 ![image](https://user-images.githubusercontent.com/36390710/179752668-fcb95857-77e9-40e0-9acf-c44e119417a6.png)
 
 Fonte: https://twitter.com/NASA
 
-Global Ecosystem Dynamics Investigation (GEDI)
-High resolution laser ranging of Earth’s forests and topography from the International Space Station (ISS)
+Investigação da Dinâmica do Ecossistema Global (GEDI).
+Laser de alta resolução das florestas e topografia da Terra da Estação Espacial Internacional (ISS).
 
 ##
 
@@ -165,7 +171,7 @@ Densidade de biomassa acima do solo em grade (AGBD). Em breve.
 
 A Julia package for processing ICESat-2 & GEDI satellite LiDAR: https://youtube.com/watch?v=8bIoCgIpnRg
 
-Shaohui Zhang "Unit-level Small Area Estimation of Forest Inventory with GEDI Auxiliary Information: https://youtube.com/watch?v=JzchU8zyv7Y 
+"Unit-level Small Area Estimation of Forest Inventory with GEDI Auxiliary Information: https://youtube.com/watch?v=JzchU8zyv7Y 
 
 GEDI Presentation by Laura Duncanson (University of Maryland): https://youtube.com/watch?v=Zspg2qkIc3Y
 
@@ -193,11 +199,11 @@ The GEDI mission: Concepts, methods and applications: https://youtube.com/watch?
 
 Geo for Good 2021 : Novel Forest Data & Applications Part 1: GEDI & Obiwan: https://youtube.com/watch?v=PQwVDnOsqhQ
 
-Prof. Laura Duncanson | Mapping Forest Aboveground Carbon Content With New NASA LiDAR Missions: https://www.youtube.com/watch?v=TX5pDLiVjg4
+Mapping Forest Aboveground Carbon Content With New NASA LiDAR Missions: https://youtube.com/watch?v=TX5pDLiVjg4
 
 Getting Started with NASA GEDI Lidar Data: https://youtube.com/watch?v=UlrCC1Xp-wk
 
-Fabian Schneider - GEDI’s potential to map structural diversity of plant canopies – a case study: https://youtube.com/watch?v=mh-4kd2xv4E
+GEDI’s potential to map structural diversity of plant canopies – a case study: https://youtube.com/watch?v=mh-4kd2xv4E
 
 Canopy Height Measurement using Spaceborne LiDAR: https://youtube.com/watch?v=byKX9r0rEnQ&t=926s
 
