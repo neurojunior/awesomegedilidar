@@ -124,7 +124,7 @@ Métricas de nível 2 em grade.
 Nível de pegada acima da biomassa do solo.
 
 - <a href=https://gedi.umd.edu/data/products/>L4B</a>:
-Densidade de biomassa acima do solo em grade (AGBD). Em breve.
+Densidade de biomassa acima do solo em grade (AGBD). **Em breve**.
 
 ##
 
