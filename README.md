@@ -1,5 +1,5 @@
 # awesomegedilidar
-Awesome GEDI LiDAR
+**Awesome GEDI LiDAR**
 
 Uma lista selecionada de recursos da missão GEDI LiDAR. Visite o repositório do Awesome GEDI LiDAR.
 
@@ -132,37 +132,45 @@ Densidade de biomassa acima do solo em grade (AGBD). Em breve.
 
 - <a href=https://geog.umd.edu/facultyprofile/dubayah/ralph>Ralph Dubayah</a>
 
-- <a href=https://geog.umd.edu/facultyprofile/armston/John>John Armstom</a>
-
-- <a href=https://directory.nau.edu/person/cd833>Christopher Doughty</a>
-
-- <a href=https://geog.umd.edu/facultyprofile/duncanson/laura>Laura Duncanson</a>
-
-- <a href=https://science.jpl.nasa.gov/people/antonio-ferraz/>António Ferraz</a>
+- <a href=https://science.gsfc.nasa.gov/sed/bio/james.b.blair>J. Bryan Blair</a>
 
 - <a href=https://directory.nau.edu/person/sjg326>Scott Goetz</a>
 
-- <a href=https://agsci.oregonstate.edu/users/stephen-good>Stephen Good</a>
+- <a href=https://geog.umd.edu/facultyprofile/hurtt/george>George Hurtt</a>
 
-- <a href=https://www.research.ed.ac.uk/en/persons/steven-hancock>Steven Hancock</a>
+- <a href=https://geog.umd.edu/facultyprofile/hansen/matthew-c.>Matthew Hansen</a>
 
-- <a href=https://forest.umaine.edu/faculty-staff/daniel-hayes/>Daniel Hayes</a>
+- <a href=https://scholar.google.com/citations?user/dssNZRcAAAAJ&hl>Sean Healey</a>
+
+- <a href=https://geog.umd.edu/facultyprofile/hofton/michelle>Michelle Hofton</a>
+
+- <a href=https://science.gsfc.nasa.gov/sed/bio/lola.fatoyinbo>Lola Fatoyinbo</a>
 
 - <a href=https://vivo.brown.edu/display/jrkellne#All>James R. Kellner</a>
 
-- <a href=https://www.neonscience.org/person/keith-krause>Keith Krause</a> 
+- <a href=https://science.gsfc.nasa.gov/sed/bio/scott.b.luthcke>Scott B. Luthcke</a>
 
-- <a href=https://oeb.harvard.edu/people/paul-r-moorcroft>Paul Moorcroft</a> 
+- <a href=https://geog.umd.edu/facultyprofile/armston/john>John Armstom</a>
 
-- <a href=http://www.geography.hunter.cuny.edu/~wenge/docs/Ni-Meister_CV_2020Oct.pdf>Wenge Ni-Meister</a> 
+- <a href=https://geog.umd.edu/facultyprofile/duncanson/laura>Laura Duncanson</a>
 
-- <a href=https://www.nasa.gov/sites/default/files/atoms/files/cv_taejinpark.pdf>Taejin Park</a> 
+- <a href=https://www.fs.usda.gov/rmrs/people/plpatterson>Paul Patterson</a>
+
+- <a href=https://directory.nau.edu/person/cd833>Christopher Doughty</a>
+
+- <a href=https://www.research.ed.ac.uk/en/persons/steven-hancock>Steven Hancock</a>
+
+- <a href=https://directory.nau.edu/person/pj276>Patrick Jantz</a>
+
+- <a href=https://directory.nau.edu/person/pb463>Patrick Burns</a>
 
 - <a href=https://geog.umd.edu/facultyprofile/tang/hao>Hao Tang</a> 
 
-- <a href=https://www.uidaho.edu/cnr/faculty/vierling-k>Kierri Vierling</a> 
+- <a href=https://geog.umd.edu/facultyprofile/qi/wenlu>Wenlu Qi</a> 
 
-- <a href=https://aces.nmsu.edu/academics/pes/qiuyan-yu.html>Qiuyan Yu</a> 
+- <a href=https://geog.umd.edu/facultyprofile/minor/david>David Minor</a>
+
+- <a href=https://geog.umd.edu/facultyprofile/pascual/adri%C3%A1n>Adrián Pascual</a> 
 
 
 ##
