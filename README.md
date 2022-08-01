@@ -172,6 +172,7 @@ Densidade de biomassa acima do solo em grade (AGBD). **Em breve**.
 
 - <a href=https://geog.umd.edu/facultyprofile/pascual/adri%C3%A1n>Adrián Pascual</a> 
 
+- <a href=https://nkeikon.github.io/gedi_note.html>Keiko Nomura</a> 
 
 ##
 
