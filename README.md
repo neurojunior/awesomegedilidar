@@ -222,3 +222,36 @@ Ralph Dubayah (2) - GEDI data to produce three-dimensional maps of the world’s
 Ralph Dubayah (1) - GEDI data to produce three-dimensional maps of the world’s forests: https://youtube.com/watch?v=iCxSZ4ahexo
 
 Vegetation Structure/Biomass/GEDI: https://youtube.com/watch?v=cC-bJHPqV3w
+
+##
+
+## Atualizações e imagens divulgadas pela NASA Earth Observatory
+
+- <a href=https://earthobservatory.nasa.gov/blogs/fromthefield/category/leaf-to-landscape/>Quadcopter levanta voo em uma floresta de Maryland</a>
+
+- <a href=https://earthobservatory.nasa.gov/images/149793/scientists-show-how-forests-measure-up>Cientistas mostram como as florestas se comparam</a>
+
+- <a href=https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields>Laser em campos de milho</a>
+
+- <a href=https://earthobservatory.nasa.gov/images/149367/dramatic-changes-at-hunga-tonga-hunga-haapai>Mudanças dramáticas em Hunga Tonga-Hunga Ha'apai</a> 
+
+- <a href=https://earthobservatory.nasa.gov/images/146203/a-new-measuring-stick-for-forests>Uma nova vara de medição para florestas</a> 
+
+- <a href=https://earthobservatory.nasa.gov/images/144818/return-of-the-gedis-first-data>Retorno dos primeiros dados do GEDI</a> 
+
+- <a href=https://earthobservatory.nasa.gov/images/144408/a-spacecrafts-journey-to-the-space-station>A viagem de uma nave espacial para a estação espacial</a> 
+
+- <a href=https://earthobservatory.nasa.gov/blogs/fromthefield/2016/03/>Esforços Olímpicos para Medir a Neve das Montanhas Olímpicas</a> 
+
+- <a href=https://earthobservatory.nasa.gov/blogs/fromthefield/category/afrisar-in-gabon/>Moabi Árvores de Lope</a> 
+
+
+
+
+
+
+
+
+
+
+
