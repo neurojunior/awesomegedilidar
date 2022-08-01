@@ -173,12 +173,18 @@ Densidade de biomassa acima do solo em grade (AGBD).
 
 - <a href=https://nkeikon.github.io/gedi_note.html>Keiko Nomura</a> 
 
+
 ##
 
 ## Apresentações e Workshops
 
-
 Explore os conjuntos de dados, serviços e ferramentas de biomassa aérea GEDI da NASA no ORNL DAAC da NASA: https://www.youtube.com/watch?v=_b1B-GbwBcE&list=PLO2yB4LGNlWp4VO0Z0LD1gHs08BgcsN-O&index=2 
+
+Mapeamento da cobertura florestal de parede a parede de todo o país usando dados GEDI e Sentinel no Earth Engine #3: https://www.youtube.com/watch?v=0cDu48LELfM
+
+Modelagem AGBD GEDI L4B EarthEngine 2: https://www.youtube.com/watch?v=ynatKixyxBo
+
+Modelando a Altura do Dossel Florestal usando Dados EO e GEE: https://www.youtube.com/watch?v=qYbg6uAwR8A
 
 Um pacote Julia para processar o satélite ICESat-2 e GEDI LiDAR: https://youtube.com/watch?v=8bIoCgIpnRg
 
@@ -214,21 +220,31 @@ Geo for Good 2021 : Novos Dados Florestais e Aplicativos Parte 1: GEDI & Obiwan:
 
 Mapeando o conteúdo de carbono acima do solo da floresta com as novas missões LiDAR da NASA: https://youtube.com/watch?v=TX5pDLiVjg4
 
+Medição da Altura do Dossel usando LiDAR Spaceborne: https://youtube.com/watch?v=byKX9r0rEnQ&t=926s
+
 Introdução aos dados GEDI Lidar da NASA: https://youtube.com/watch?v=UlrCC1Xp-wk
 
 Compreendendo as órbitas da missão da Investigação da Dinâmica do Ecossistema Global (GEDI) da NASA: https://www.youtube.com/watch?v=wxgrxvAKpTo
 
 O potencial do GEDI para mapear a diversidade estrutural das copas das plantas – um estudo de caso: https://youtube.com/watch?v=mh-4kd2xv4E
 
-Medição da Altura do Dossel usando LiDAR Spaceborne: https://youtube.com/watch?v=byKX9r0rEnQ&t=926s
-
-Dr Hao Tang - Mapeando a cobertura global do dossel e as métricas de perfil vertical usando o lidar espacial: https://youtube.com/watch?v=x8BqOzFORZM
+Estimativa de Biomassa Florestal Usando GEDI: https://www.youtube.com/watch?v=m1CUuArYtE4
 
 Ralph Dubayah (2) - Dados GEDI para produzir mapas tridimensionais das florestas do mundo: https://youtube.com/watch?v=IBrU3P3HXgc
 
 Ralph Dubayah (1) - Dados GEDI para produzir mapas tridimensionais das florestas do mundo: https://youtube.com/watch?v=iCxSZ4ahexo
 
+Dr Hao Tang - Mapeando a cobertura global do dossel e as métricas de perfil vertical usando o lidar espacial: https://youtube.com/watch?v=x8BqOzFORZM
+
 Estrutura da Vegetação/Biomassa/GEDI: https://youtube.com/watch?v=cC-bJHPqV3w
+
+Missão a laser da NASA para medir árvores: https://www.youtube.com/watch?v=qpzFn5bqhl4
+
+Mapeamento de carbono em 3-D: https://www.youtube.com/watch?v=SSdDPFfUVIo
+
+Que a floresta esteja com você: GEDI se move em direção ao lançamento para a estação espacial: https://www.youtube.com/watch?v=XjieZ9iZHWs
+
+
 
 ##
 
