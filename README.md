@@ -177,51 +177,58 @@ Densidade de biomassa acima do solo em grade (AGBD).
 
 ## Apresentações e Workshops
 
-A Julia package for processing ICESat-2 & GEDI satellite LiDAR: https://youtube.com/watch?v=8bIoCgIpnRg
 
-"Unit-level Small Area Estimation of Forest Inventory with GEDI Auxiliary Information: https://youtube.com/watch?v=JzchU8zyv7Y 
+Explore os conjuntos de dados, serviços e ferramentas de biomassa aérea GEDI da NASA no ORNL DAAC da NASA: https://www.youtube.com/watch?v=_b1B-GbwBcE&list=PLO2yB4LGNlWp4VO0Z0LD1gHs08BgcsN-O&index=2 
 
-GEDI Presentation by Laura Duncanson (University of Maryland): https://youtube.com/watch?v=Zspg2qkIc3Y
+Um pacote Julia para processar o satélite ICESat-2 e GEDI LiDAR: https://youtube.com/watch?v=8bIoCgIpnRg
 
-REDDCopernicus - GFOI R&D Online Workshop - Biomass session: https://youtube.com/watch?v=mcuM7AXN0u8&t=1s
+"Estimativa de Pequena Área em Nível de Unidade do Inventário Florestal com Informações Auxiliares GEDI: https://youtube.com/watch?v=JzchU8zyv7Y 
 
-An Introduction to GEDI Ecosystem LiDAR (NUS CNCS): https://youtube.com/watch?v=FamHIjp8Fdc
+Conheça o GEDI! O Sensor de Investigação da Dinâmica do Ecossistema Global a Bordo da ISS: https://www.youtube.com/watch?v=xsoMcw4upjs
 
-Subsetting NASA GEDI LiDAR Data using ArcGIS Shapefiles: https://youtube.com/watch?v=vjsAuyObjTU
+Apresentação GEDI por Laura Duncanson (Universidade de Maryland): https://youtube.com/watch?v=Zspg2qkIc3Y
 
-Downloading multiple NASA GEDI LiDAR Granules simultaneously: https://youtube.com/watch?v=Nqjo_Mdbkfk
+REDDCopernicus - Workshop Online GFOI R&D - Sessão de Biomassa: https://youtube.com/watch?v=mcuM7AXN0u8&t=1s
 
-Subsetting NASA GEDI LiDAR Data without downloading: https://youtube.com/watch?v=SpNazd9DQF4
+Uma Introdução ao Ecossistema GEDI LiDAR (NUS CNCS): https://youtube.com/watch?v=FamHIjp8Fdc
 
-Subsetting NASA GEDI LiDAR Data for your AOI using R: https://youtube.com/watch?v=ANRqJ4i7v_Y
+Subconjunto de dados NASA GEDI LiDAR usando ArcGIS Shapefiles: https://youtube.com/watch?v=vjsAuyObjTU
 
-How to Download Free LiDAR (NASA GEDI) Data?: https://youtube.com/watch?v=BjMyBZh9EI8
+Baixando vários grânulos NASA GEDI LiDAR simultaneamente: https://youtube.com/watch?v=Nqjo_Mdbkfk
 
-Spaceborne LiDAR and NASA Global Ecosystem Dynamics Investigation: https://youtube.com/watch?v=T0Usm2QZBhQ
+Subdefinindo os dados do NASA GEDI LiDAR sem baixar: https://youtube.com/watch?v=SpNazd9DQF4
 
-Discrete Return vs Full Waveform LiDAR: https://youtube.com/watch?v=D1iCj-dFJ30
+Subconjunto de dados NASA GEDI LiDAR para sua AOI usando R: https://youtube.com/watch?v=ANRqJ4i7v_Y
 
-What is LiDAR? A Quick Introduction: https://youtube.com/watch?v=TpFSDevs7X8&t=221s
+Como baixar dados gratuitos do LiDAR (NASA GEDI)?: https://youtube.com/watch?v=BjMyBZh9EI8
 
-The GEDI mission: Concepts, methods and applications: https://youtube.com/watch?v=9omDvevO2vw
+Investigação da Dinâmica do Ecossistema Global da NASA e LiDAR transportado pelo espaço: https://youtube.com/watch?v=T0Usm2QZBhQ
 
-Geo for Good 2021 : Novel Forest Data & Applications Part 1: GEDI & Obiwan: https://youtube.com/watch?v=PQwVDnOsqhQ
+Retorno discreto vs LiDAR de forma de onda completa: https://youtube.com/watch?v=D1iCj-dFJ30
 
-Mapping Forest Aboveground Carbon Content With New NASA LiDAR Missions: https://youtube.com/watch?v=TX5pDLiVjg4
+O que é LiDAR? Uma introdução rápida: https://youtube.com/watch?v=TpFSDevs7X8&t=221s
 
-Getting Started with NASA GEDI Lidar Data: https://youtube.com/watch?v=UlrCC1Xp-wk
+A missão GEDI: Conceitos, métodos e aplicações: https://youtube.com/watch?v=9omDvevO2vw
 
-GEDI’s potential to map structural diversity of plant canopies – a case study: https://youtube.com/watch?v=mh-4kd2xv4E
+Geo for Good 2021 : Novos Dados Florestais e Aplicativos Parte 1: GEDI & Obiwan: https://youtube.com/watch?v=PQwVDnOsqhQ
 
-Canopy Height Measurement using Spaceborne LiDAR: https://youtube.com/watch?v=byKX9r0rEnQ&t=926s
+Mapeando o conteúdo de carbono acima do solo da floresta com as novas missões LiDAR da NASA: https://youtube.com/watch?v=TX5pDLiVjg4
 
-Dr Hao Tang - Mapping global canopy cover and vertical profile metrics using spaceborne lidar: https://youtube.com/watch?v=x8BqOzFORZM
+Introdução aos dados GEDI Lidar da NASA: https://youtube.com/watch?v=UlrCC1Xp-wk
 
-Ralph Dubayah (2) - GEDI data to produce three-dimensional maps of the world’s forests: https://youtube.com/watch?v=IBrU3P3HXgc
+Compreendendo as órbitas da missão da Investigação da Dinâmica do Ecossistema Global (GEDI) da NASA: https://www.youtube.com/watch?v=wxgrxvAKpTo
 
-Ralph Dubayah (1) - GEDI data to produce three-dimensional maps of the world’s forests: https://youtube.com/watch?v=iCxSZ4ahexo
+O potencial do GEDI para mapear a diversidade estrutural das copas das plantas – um estudo de caso: https://youtube.com/watch?v=mh-4kd2xv4E
 
-Vegetation Structure/Biomass/GEDI: https://youtube.com/watch?v=cC-bJHPqV3w
+Medição da Altura do Dossel usando LiDAR Spaceborne: https://youtube.com/watch?v=byKX9r0rEnQ&t=926s
+
+Dr Hao Tang - Mapeando a cobertura global do dossel e as métricas de perfil vertical usando o lidar espacial: https://youtube.com/watch?v=x8BqOzFORZM
+
+Ralph Dubayah (2) - Dados GEDI para produzir mapas tridimensionais das florestas do mundo: https://youtube.com/watch?v=IBrU3P3HXgc
+
+Ralph Dubayah (1) - Dados GEDI para produzir mapas tridimensionais das florestas do mundo: https://youtube.com/watch?v=iCxSZ4ahexo
+
+Estrutura da Vegetação/Biomassa/GEDI: https://youtube.com/watch?v=cC-bJHPqV3w
 
 ##
 
