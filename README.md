@@ -116,17 +116,14 @@ Laser de alta resolução das florestas e topografia da Terra da Estação Espac
 
 ## Produtos
 
-- <a href=https://lpdaac.usgs.gov/products/gedi01_bv001/>L1A</a>: 
-1A: Formas de onda brutas.
+- <a href=https://lpdaac.usgs.gov/products/gedi01_bv001/>L1A</a>: 1A: Formas de onda brutas.
 
-- <a href=https://lpdaac.usgs.gov/products/gedi02_av001/>L2A</a>:   
-2A: Elevação do solo, altura do topo do dossel, métricas de altura relativa (RH).
+- <a href=https://lpdaac.usgs.gov/products/gedi02_av001/>L2A</a>:2A: Elevação do solo, altura do topo do dossel, métricas de altura relativa (RH).
 
 - <a href=https://lpdaac.usgs.gov/products/gedi01_bv002/>L1B</a>: 
 Formas de onda geolocalizadas.
 
-- <a href=https://lpdaac.usgs.gov/products/gedi02_bv002/>L2B</a>: 
-Fração de cobertura do dossel (CCF), perfil CCF, Índice de área foliar (LAI), perfil LAI.
+- <a href=https://lpdaac.usgs.gov/products/gedi02_bv002/>L2B</a>: Fração de cobertura do dossel (CCF), perfil CCF, Índice de área foliar (LAI), perfil LAI.
 
 - <a href=https://daac.ornl.gov/GEDI/guides/GEDI_L3_Land_Surface_Metrics.html>L3 - versão 1</a>: 
 Métricas de nível 2 em grade.
@@ -135,12 +132,11 @@ Métricas de nível 2 em grade.
 - <a href=https://daac.ornl.gov/GEDI/guides/GEDI_L4A_AGB_Density.html>L4A - versão 1</a>: 
 Nível de pegada acima da biomassa do solo.
 
-- <a href=https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2056> L4A - versão 2</a>
+- <a href=	https://doi.org/10.3334/ORNLDAAC/1986>L4A - versão 2</a> 
 
-- <a href=https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2056.html> L4A - versão 2.1</a>
+- <a href=https://doi.org/10.3334/ORNLDAAC/2056>L4A - versão 2.1</a> 
 
-- <a href=https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2017>L4B</a>:
-Densidade de biomassa acima do solo em grade (AGBD). 
+- <a href=https://doi.org/10.3334/ORNLDAAC/2017>L4B</a>: Densidade de biomassa acima do solo em grade (AGBD). 
 
 ##
 
