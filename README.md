@@ -5,6 +5,14 @@ Uma lista selecionada de recursos da missão GEDI LiDAR. Visite o repositório d
 
 Lista criada e atualizada por: <a href=https://github.com/neurojunior>Neuro Junior</a> e <a href=https://github.com/BrunaNSilva>Bruna Nascimento da Silva</a>.
 
+
+**Apoio:**
+
+<a href=https://www.linkedin.com/company/midiageo-group---administra-o-e-participa-es-ltda/about/>MidiaGEO Grupo LTDA</a> 
+
+<a href=https://www.linkedin.com/company/mapenginebr-solu%C3%A7%C3%B5es-em-geotecnologias-em-meio-ambiente/>MapEngineBR </a>
+
+
 ##
 
 <a href=https://gedi.umd.edu>Site Oficial da Missão</a>
