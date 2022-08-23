@@ -8,7 +8,6 @@ Lista criada e atualizada por: <a href=https://github.com/neurojunior>Neuro Juni
 
 **Apoio:**
 
-<a href=https://www.linkedin.com/company/midiageo-group---administra-o-e-participa-es-ltda/about/>MidiaGEO Grupo LTDA</a> 
 
 <a href=https://www.linkedin.com/company/mapenginebr-solu%C3%A7%C3%B5es-em-geotecnologias-em-meio-ambiente/>MapEngineBR </a>
 
